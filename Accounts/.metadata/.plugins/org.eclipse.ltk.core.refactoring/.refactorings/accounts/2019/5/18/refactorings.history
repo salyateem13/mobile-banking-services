@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cgbank.accounts.account.AccountService&apos; to &apos;AccountServiceImpl&apos;&#x0A;- Original project: &apos;accounts&apos;&#x0A;- Original element: &apos;com.cgbank.accounts.account.AccountService&apos;&#x0A;- Renamed element: &apos;com.cgbank.accounts.account.AccountServiceImpl&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AccountService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.cgbank.accounts.account{AccountService.java[AccountService" matchStrategy="1" name="AccountServiceImpl" qualified="false" references="true" similarDeclarations="false" stamp="1556698361256" textual="false" version="1.0"/>
+</session>

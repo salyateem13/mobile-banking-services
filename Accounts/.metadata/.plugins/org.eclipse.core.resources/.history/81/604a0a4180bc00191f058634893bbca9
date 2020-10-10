@@ -1,0 +1,5 @@
+spring.cloud.gcp.project-id=vigilant-result-196213
+spring.cloud.gcp.credentials.location=file:/Users/samiralyateem/.ssh/vigilant-result-196213-035ed099d295.json
+spring.cloud.gcp.credentials.scopes=https://www.googleapis.com/auth/pubsub
+
+spring.cloud.gcp.config.credentials.scopes=credentials.scopes=https://www.googleapis.com/auth/pubsub

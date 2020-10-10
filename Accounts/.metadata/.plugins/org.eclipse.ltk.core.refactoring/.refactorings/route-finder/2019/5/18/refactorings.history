@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Response.java&apos; to &apos;accounts/src/main/java/com.cgbank.accounts&apos;&#x0A;- Original project: &apos;route-finder&apos;&#x0A;- Destination element: &apos;accounts/src/main/java/com.cgbank.accounts&apos;&#x0A;- Original element: &apos;com.example.routefinder.domain.Response.java&apos;" description="Copy compilation unit" destination="=accounts/src\/main\/java&lt;com.cgbank.accounts" element1="/src\/main\/java&lt;com.example.routefinder.domain{Response.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556700770945" units="1" version="1.0"/>
+</session>
